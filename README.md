@@ -6,5 +6,13 @@ We are also making the uses in daily life such as the face unlocking of our smar
 
 A facial detection system is a technology capable of detecting a human face from digital image or a video. To find the face, the image can be searched for landmarks such as the eyes and nose.
 
-I have developed this face detection model using Python. The Single Shot Detector, frontal face algorithm HaarCascade and the Face Recognition is used to identify the faces in a picture.
+I have developed this face detection model using Python. The Single Shot Detector, frontal face algorithm HaarCascade and the Face Recognition library are used to identify the faces in a image/video. 
+
+For SSD,I have used opencv DNN module to implement SSD.
+
+For Cascade classifier, I have used opencv library
+
+And, the third model i have developed using the face_recognition library
+
+
 
